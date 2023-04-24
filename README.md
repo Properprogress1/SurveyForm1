@@ -2,7 +2,20 @@
   <html>
   <link rel="stylesheet" href="styles.css">
 <style>
+#survey-form {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
 
+#body{
+    color: blue;
+}
+
+#title{
+    color: green;
+}
 </style>
 
 <head>
